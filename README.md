@@ -1,5 +1,5 @@
 # measure
-Projekt na działa na Arduino Leonardo
+Projekt działa na Arduino Leonardo
 potrzebne są także:
 jeden przycisk zwykły, przycisk dotykowy, czujnik ultradźwiękowy do mierzenia odległości, moduł bluetooth, wyświetlacz LCD 2x16, ultradźwiękowy czujnik odległości, itp.
 
